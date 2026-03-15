@@ -13,8 +13,6 @@
 .NOTES
     File Name      : AnyDeskCleanRemoval.ps1
     Version        : 1.0
-    Author         : Himanshu Gupta
-    Date           : 25/11/2025
     Requirements   : Run as Administrator on Windows 10/11
                      PowerShell 5.0 or higher
                      No third party tools required
